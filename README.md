@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yuan Tian</h1>
-<h3 align="center">Bioinformatics | Computational Biology | Data Science | Machine Learning | Deep Learning.  
+<h3 align="center">Bioinformatics | Computational Biology | Data Science | Machine Learning | Deep Learning.\
   Transforming data into insights. 🧬💻📊</h3>
 
 <h3 align="left">Connect with me:</h3>
